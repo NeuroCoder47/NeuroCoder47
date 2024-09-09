@@ -68,9 +68,6 @@ Feel free to reach out! I’m always up for a good conversation about **AI**, **
 
 ### 🤣 **And Here Come the Developer Jokes:**
 
-> **Q: Why did the developer quit his job?**  
-> **A: He didn’t get arrays.**
-
 ---
 
 > **Q: Why do programmers prefer dark mode?**  
