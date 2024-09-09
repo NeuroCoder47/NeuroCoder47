@@ -1,5 +1,5 @@
 # 👨‍💻 Hey there! I'm Ashmit Gupta 🎉  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F77B00&center=true&vCenter=true&width=1000&height=70&lines=Welcome+to+my+GitHub!+I'm+%5BYour+Name%5D!;Exploring+AI%2C+Machine+Learning+%26+Deep+Learning;Building+Cool+Stuff+Every+Day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F77B00&center=true&vCenter=true&width=1000&height=70&lines=Welcome+to+my+GitHub!+I'm+%5BAshmit+Gupta%5D!;Exploring+AI%2C+Machine+Learning+%26+Deep+Learning;Building+Cool+Stuff+Every+Day!)](https://git.io/typing-svg)
 
 ---
 
