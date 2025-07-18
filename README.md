@@ -54,7 +54,7 @@ I started small, learning the basics of Python, and now, I’m working on advanc
 
 Feel free to reach out! I’m always up for a good conversation about **AI**, **tech**, or anything else that sparks creativity 🔥!  
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashmitgupta4703@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ashmit-gupta-9599b7255/))
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ashmit-gupta-9599b7255/)](https://www.linkedin.com/in/ashmit-gupta-9599b7255/))
 - [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-github](https://github.com/NeuroCoder47))
 - [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-kaggle)
 
